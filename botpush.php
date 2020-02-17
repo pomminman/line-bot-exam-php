@@ -6,7 +6,7 @@ require "vendor/autoload.php";
 
 $access_token = 'kP5QT1uSwDQZi6B8zDLuoefL/Egqepm5Lgvf/TxniaTPQRrrxR8k96y6mis/Sr57cCnunkhy6kMR+Uz6lVnsjb+31Ii83a8ufWmpJeTOjSzSXftwz+qMLDvPpRpttIyqme1zR/Fpsy31kTdV31TpYQdB04t89/1O/w1cDnyilFU=';
 
-$channelSecret = 'cdce62b09b8e4e5f7394218efff77583';
+$channelSecret = 'a9dd9f6be43fc50428347fc13cb1d917';
 
 $pushID = 'U4c96bce643189f9bf807e7bb97ee1dd4';
 
